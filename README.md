@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grace-Awuma
-- 👀 I’m interested in Software Engineering, Cloud and Network Architecture and soft on DevOps
+- 👀 I’m interested in Software Engineering, Cloud and Network Architecture and on DevOps
 - 🌱 I’m currently learning Cloud Engineering/DevOps
 - 💞️ I’m looking to collaborate on collaborative projects and challenges
 - 📫 How to reach me check me on linkedln
